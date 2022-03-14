@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B9020B9-0734-4065-9317-B5B3E2F853C6}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisibilityBinding", "VisibilityBinding\VisibilityBinding.csproj", "{EE01F15A-6F3E-4284-A027-15404FF2C34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisibilityBindingDemo", "VisibilityBindingDemo\VisibilityBindingDemo.csproj", "{EFD45364-BA5F-4CCB-978F-BDC0668DFD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE01F15A-6F3E-4284-A027-15404FF2C34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE01F15A-6F3E-4284-A027-15404FF2C34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE01F15A-6F3E-4284-A027-15404FF2C34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE01F15A-6F3E-4284-A027-15404FF2C34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD45364-BA5F-4CCB-978F-BDC0668DFD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD45364-BA5F-4CCB-978F-BDC0668DFD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD45364-BA5F-4CCB-978F-BDC0668DFD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD45364-BA5F-4CCB-978F-BDC0668DFD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E635694-C5C3-4958-B43A-04B7A6AB363E}
+	EndGlobalSection
+EndGlobal
