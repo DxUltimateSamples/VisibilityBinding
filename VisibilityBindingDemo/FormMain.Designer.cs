@@ -135,7 +135,7 @@ namespace VisibilityBindingDemo
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("FormMain.IconOptions.Icon")));
             this.Name = "FormMain";
-            this.Text = "DxUltimate: AutoSizeMemo";
+            this.Text = "DxUltimate: VisibilityBinding";
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl1)).EndInit();
             this.ResumeLayout(false);
 
